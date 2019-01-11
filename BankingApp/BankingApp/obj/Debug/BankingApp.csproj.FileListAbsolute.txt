@@ -1,0 +1,19 @@
+C:/Users/502712097/Desktop/CIT 143/BankingApp/BankingApp/bin/Debug/BankingApp.exe.config
+C:/Users/502712097/Desktop/CIT 143/BankingApp/BankingApp/bin/Debug/BankingApp.exe
+C:/Users/502712097/Desktop/CIT 143/BankingApp/BankingApp/bin/Debug/BankingApp.pdb
+C:/Users/502712097/Desktop/CIT 143/BankingApp/BankingApp/obj/Debug/BankingApp.csprojResolveAssemblyReference.cache
+C:/Users/502712097/Desktop/CIT 143/BankingApp/BankingApp/obj/Debug/BankingApp.Form1.resources
+C:/Users/502712097/Desktop/CIT 143/BankingApp/BankingApp/obj/Debug/BankingApp.Properties.Resources.resources
+C:/Users/502712097/Desktop/CIT 143/BankingApp/BankingApp/obj/Debug/BankingApp.csproj.GenerateResource.Cache
+C:/Users/502712097/Desktop/CIT 143/BankingApp/BankingApp/obj/Debug/BankingApp.exe
+C:/Users/502712097/Desktop/CIT 143/BankingApp/BankingApp/obj/Debug/BankingApp.pdb
+/Users/anthonysego/Desktop/Programming, school work & certs/C#/BankingApp/BankingApp/bin/Debug/BankingApp.exe.config
+/Users/anthonysego/Desktop/Programming, school work & certs/C#/BankingApp/BankingApp/bin/Debug/BankingApp.exe
+/Users/anthonysego/Desktop/Programming, school work & certs/C#/BankingApp/BankingApp/bin/Debug/BankingApp.pdb
+/Users/anthonysego/Desktop/Programming, school work & certs/C#/BankingApp/BankingApp/obj/Debug/BankingApp.csprojAssemblyReference.cache
+/Users/anthonysego/Desktop/Programming, school work & certs/C#/BankingApp/BankingApp/obj/Debug/BankingApp.Form1.resources
+/Users/anthonysego/Desktop/Programming, school work & certs/C#/BankingApp/BankingApp/obj/Debug/BankingApp.Properties.Resources.resources
+/Users/anthonysego/Desktop/Programming, school work & certs/C#/BankingApp/BankingApp/obj/Debug/BankingApp.csproj.GenerateResource.cache
+/Users/anthonysego/Desktop/Programming, school work & certs/C#/BankingApp/BankingApp/obj/Debug/BankingApp.csproj.CoreCompileInputs.cache
+/Users/anthonysego/Desktop/Programming, school work & certs/C#/BankingApp/BankingApp/obj/Debug/BankingApp.exe
+/Users/anthonysego/Desktop/Programming, school work & certs/C#/BankingApp/BankingApp/obj/Debug/BankingApp.pdb
